@@ -1,5 +1,5 @@
-1. Sekmeler Arası Geçiş
+1. Hızlı Arama Çubuğu
 2. Gizli Mod
-3. Hızlı Arama Çubuğu
+3. Sekmeler Arası Geçiş
 4. Eklenti Desteği
 5. Reklam Engelleme
