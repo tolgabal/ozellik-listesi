@@ -1,0 +1,4 @@
+1. Sekmeler Arası Geçiş
+2. Gizli Mod
+3. Hızlı Arama Çubuğu
+4. Eklenti Desteği
