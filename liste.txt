@@ -2,3 +2,4 @@
 2. Gizli Mod
 3. Hızlı Arama Çubuğu
 4. Eklenti Desteği
+5. Reklam Engelleme
